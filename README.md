@@ -46,7 +46,6 @@ This project provides a basic to-do list management system where users can:
    ```bash
    git clone https://github.com/your-username/django-to-do-list.git
 2. Install the dependencies:
-```bash
    pip install -r requirements.txt
 3. Apply migrations to set up the database:
 ```bash
